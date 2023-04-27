@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "214325594145",
+    "project_id": "transportecarga-fd842",
+    "storage_bucket": "transportecarga-fd842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214325594145:android:0dbd3b69af0c7b55ecbb60",
+        "android_client_info": {
+          "package_name": "online.transporteari.transportecarga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214325594145-p7psrpr5ijn9pcistjnouv54o9envov8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwe_9SEtMkP1P09lvzkPPAz6U2GCLCRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214325594145-p7psrpr5ijn9pcistjnouv54o9envov8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214325594145:android:86624cab08bb528cecbb60",
+        "android_client_info": {
+          "package_name": "online.transporteari.transportecargaconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214325594145-p7psrpr5ijn9pcistjnouv54o9envov8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwe_9SEtMkP1P09lvzkPPAz6U2GCLCRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214325594145-p7psrpr5ijn9pcistjnouv54o9envov8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
